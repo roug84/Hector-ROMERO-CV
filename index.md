@@ -2,7 +2,8 @@
 CEA Tech
 
 17 Avenue des Martyrs, 38000 Grenoble, France.
-  +33 6 148 252 10                   hector@cenidet.edu.mx
+
++33 6 148 252 10                   hector@cenidet.edu.mx
 ## Currently________________________________________
 ### Postdoctoral researcher (September 2016- present)
 _CEA, Grenoble, France_
@@ -12,9 +13,9 @@ _CEA, Grenoble, France_
 **Research subject:** “Modeling the effect of physical activity on the glucose dynamics”.
 
 **Main activities and results:**
-*	1 article (Physiological Measurement, IOP science), 2 international conferences (ATTD, Paris, 2017 et ICAMPAM, Maryland, 2017), 1 national conference (SFD, Lille, 2017), and 1 article in major revision (Journal of Applied Physiology, APN).
+*	1 article (Physiological Measurement, IOP science), 2 international conferences (ATTD, Paris, 2017 and ICAMPAM, Maryland, 2017), 1 national conference (SFD, Lille, 2017), and 1 article in major revision (Journal of Applied Physiology, APN).
 
-* Signal processing of acceloremeters, heart rate monitoring systems, insulin pump, continous glucose measurement sensors: extraction, filtering and processing for modeling.
+* Signal processing applyed to acceloremeters, heart rate monitoring systems, insulin pump, and continous glucose measurement sensors: extraction, filtering and processing for modeling.
 
 * Development of an original branched model for converting accelerometer and heart rate signal into energy expenditure, a nonñinear model (based on a neural network) for converting accelerometer signal into energy expenditure.
 
@@ -28,7 +29,7 @@ _Arts et Métiers ParisTech, ENSAM, Aix en Provence, France_ and _Centro Naciona
 
 **Dissertation tittle:** “System identification using neural networks: a balanced accuracy, complexity and computational cost approach”.
 **Advisors:** Prof. Jean-Claude Carmona and Prof. Victor M. Alvarado Martinez.
-*	**Results:** An original system identification methodology leading balanced accuracy-complexity neural network-based models. System identification of electronic, mechanical, acoustic, energetic, vibrational, and aeronautic systems. Three articles published on dedicated scientific journals and two articles presented in an international conference.
+*	**Results:** An original system identification methodology leading balanced accuracy-complexity neural network-based models. System identification of electronic, mechanical, acoustic, energetic, vibrational, and aeronautic systems. Five articles published on dedicated scientific journals and two articles presented in an international conference.
 
 ***
 
@@ -55,7 +56,7 @@ _Laboratoire Traitement du Signal et de l'Image, LTSI, Rennes, France_
 **Research subject:** “Physiological signal processing and development of adaptive control systems for the treatment of heart failure”.
 
 **Main activities and results:**
-*	5 patents submitted with SORIN. 1 article published in TBME, IEEE, 2 articles presented in 2 international conferences.
+*	5 patents submitted with SORIN. 1 article published in TBME, IEEE, 1 paper published in PlosOne, 2 articles presented in 2 international conferences, 1 article in major revision in TBME, IEEE, and 1 article in minors revision in PlosOne.
 *	Design, development and implementation of real time adaptive control systems for the regulation of the instantaneous heart rate via vagus nerve stimulation. 
 *	Design and development of a data acquisition and signal processing system.
 *	Design and development of a model control framework used for model-based control design.
