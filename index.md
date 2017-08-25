@@ -1,5 +1,7 @@
 #  Héctor ROMERO | PhD in Automatic Control 
-Laboratoire Traitement du Signal et de l'Image (LTSI). Université de Rennes 1, Campus de Beaulieu. Bât 22, 35042 Rennes, France.
+CEA Tech
+
+17 Avenue des Martyrs, 38000 Grenoble, France.
   +33 6 148 252 10                   hector@cenidet.edu.mx
 ## Currently________________________________________
 ### Postdoctoral researcher (September 2016- present)
