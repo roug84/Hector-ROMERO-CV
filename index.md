@@ -111,6 +111,6 @@ _International Camiones S.A de C.V., Xalapa, Mexico_
 *	Journal of Emerging and Selected Topics in Power Electronics, IEEE, 07/2014.
 *	Journal of Emerging and Selected Topics in Power Electronics, IEEE, 03/2014.
 
-**Publication list:** http://roug84.github.io/Hector-ROMERO-Publication-list/
+**Publication list:** [http://roug84.github.io/Hector-ROMERO-Publication-list/](http://roug84.github.io/Hector-ROMERO-Publication-list/)
 
-**Research experience:** http://roug84.github.io/Hector-ROMERO-Research-Experience/
+**Research experience:** [http://roug84.github.io/Hector-ROMERO-Research-Experience/](http://roug84.github.io/Hector-ROMERO-Research-Experience/)
