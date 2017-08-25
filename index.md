@@ -2,19 +2,22 @@
 Laboratoire Traitement du Signal et de l'Image (LTSI). Université de Rennes 1, Campus de Beaulieu. Bât 22, 35042 Rennes, France.
   +33 6 148 252 10                   hector@cenidet.edu.mx
 ## Currently________________________________________
-### Postdoctoral researcher (September 2013- present)
-_Laboratoire Traitement du Signal et de l'Image, LTSI, Rennes, France_
+### Postdoctoral researcher (September 2016- present)
+_CEA, Grenoble, France_
+**Project:** Diabeloop artifitial pancreas.
 
-**Project:** Initiative Nationale Technologique d’Envergure pour une Neuro Stimulation Evoluée (INTENSE).
-
-**Research subject:** “Physiological signal processing and development of adaptive control systems for the treatment of heart failure”.
+**Research subject:** “Modeling the effect of physical activity on the glucose dynamics”.
 
 **Main activities and results:**
-*	5 patents submitted with SORIN. 1 article published in TBME, IEEE, 2 articles presented in 2 international conferences.
-*	Design, development and implementation of real time adaptive control systems for the regulation of the instantaneous heart rate via vagus nerve stimulation. 
-*	Design and development of a data acquisition and signal processing system.
-*	Design and development of a model control framework used for model-based control design.
-*	Design and clinical evaluation of the control system validation protocol: tests on 11 sheep at (HEGP).
+*	1 article (Physiological Measurement, IOP science), 2 international conferences (ATTD, Paris, 2017 et ICAMPAM, Maryland, 2017), 1 national conference (SFD, Lille, 2017), and 1 article in major revision (Journal of Applied Physiology, APN).
+
+* Signal processing of acceloremeters, heart rate monitoring systems, insulin pump, continous glucose measurement sensors: extraction, filtering and processing for modeling.
+
+* Development of an original branched model for converting accelerometer and heart rate signal into energy expenditure, a nonñinear model (based on a neural network) for converting accelerometer signal into energy expenditure.
+
+* blackbox models of the effect of physical activity, meal and insulin on the glucose dynamics.
+
+•	Analysis and physiological modeling of the effect of physical activity on the glucose dynamics.
 
 ## Education_______________________________________
 ### PhD in automatic control  				 	          (February 2010 - January 2013)
@@ -41,6 +44,20 @@ _Universidad Veracruzana, Xalapa, Mexico_
 *	**Related skills:** analysis, design, and implementation of analog and digital electronic systems. Design of sensors and actuators for data acquisition, signal processing, and control. 
 
 ## Experience______________________________________
+### Postdoctoral researcher (September 2013- September 2016)
+_Laboratoire Traitement du Signal et de l'Image, LTSI, Rennes, France_
+
+**Project:** Initiative Nationale Technologique d’Envergure pour une Neuro Stimulation Evoluée (INTENSE).
+
+**Research subject:** “Physiological signal processing and development of adaptive control systems for the treatment of heart failure”.
+
+**Main activities and results:**
+*	5 patents submitted with SORIN. 1 article published in TBME, IEEE, 2 articles presented in 2 international conferences.
+*	Design, development and implementation of real time adaptive control systems for the regulation of the instantaneous heart rate via vagus nerve stimulation. 
+*	Design and development of a data acquisition and signal processing system.
+*	Design and development of a model control framework used for model-based control design.
+*	Design and clinical evaluation of the control system validation protocol: tests on 11 sheep at (HEGP).
+
 ### Lecturer and research assistant				         		 (September 2012-August 2013)
 _Arts et Métiers ParisTech, ENSAM, Aix en Provence, France_ 
 *	**Research:** Development of an adaptive control system for power optimization of a photovoltaic panel. Modeling and experimental validation of a photovoltaic panel (Simulink, Matlab script). One paper presented in an international conference and selected to be published in an international journal.  
