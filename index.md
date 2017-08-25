@@ -4,6 +4,7 @@ Laboratoire Traitement du Signal et de l'Image (LTSI). Université de Rennes 1, 
 ## Currently________________________________________
 ### Postdoctoral researcher (September 2016- present)
 _CEA, Grenoble, France_
+
 **Project:** Diabeloop artifitial pancreas.
 
 **Research subject:** “Modeling the effect of physical activity on the glucose dynamics”.
