@@ -14,14 +14,11 @@ _CEA, Grenoble, France_
 
 **Main activities and results:**
 *	1 article (Physiological Measurement, IOP science), 2 international conferences (ATTD, Paris, 2017 and ICAMPAM, Maryland, 2017), 1 national conference (SFD, Lille, 2017), and 1 article in major revision (Journal of Applied Physiology, APN).
+*	Signal processing applied to accelerometers, heart rate monitoring systems, insulin pump, and continuous glucose measurement sensors: extraction, filtering and processing for modeling.
+*	Development of an original branched model for converting accelerometer and heart rate signal into energy expenditure, a nonlinear model (based on a neural network) for converting accelerometer signal into energy expenditure.
+*	Black box models of the effect of physical activity, meal and insulin on the glucose dynamics.
+*	Analysis and physiological modeling of the effect of physical activity on the glucose dynamics.
 
-* Signal processing applyed to acceloremeters, heart rate monitoring systems, insulin pump, and continous glucose measurement sensors: extraction, filtering and processing for modeling.
-
-* Development of an original branched model for converting accelerometer and heart rate signal into energy expenditure, a nonñinear model (based on a neural network) for converting accelerometer signal into energy expenditure.
-
-* blackbox models of the effect of physical activity, meal and insulin on the glucose dynamics.
-
-•	Analysis and physiological modeling of the effect of physical activity on the glucose dynamics.
 
 ## Education_______________________________________
 ### PhD in automatic control  				 	          (February 2010 - January 2013)
