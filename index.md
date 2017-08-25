@@ -8,7 +8,7 @@ CEA Tech
 ### Postdoctoral researcher (September 2016- present)
 _CEA, Grenoble, France_
 
-**Project:** Diabeloop artifitial pancreas.
+**Project:** Diabeloop artificial pancreas.
 
 **Research subject:** “Modeling the effect of physical activity on the glucose dynamics”.
 
